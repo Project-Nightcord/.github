@@ -9,7 +9,7 @@
 - Redmi 7 (ONC)
 
 ### Maybe what you need
-- [Manifest](https://github.com/Project-Nightcord/local_manifests)
+- [Manifest](https://github.com/Project-Nightcord/manifesto)
 
 ### Last
 > Good luck :3
